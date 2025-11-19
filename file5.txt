@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+=======
+Tacbot
+Day3
+>>>>>>> ccc4211 (Commit3)
 "Hello World" 
 here is some topicsS
