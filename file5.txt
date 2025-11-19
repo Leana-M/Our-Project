@@ -1,6 +1,7 @@
-HEAD
+Day3
+<<<<<<< HEAD
+so far it is good
+=======
 "Hello World" 
 here is some topicsS
-Tacbot
-Day3
-
+>>>>>>> 96bad5f51d92d9bb7788e1b94e39f73850793157
